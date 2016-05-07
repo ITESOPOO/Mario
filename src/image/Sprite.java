@@ -14,6 +14,7 @@ public final class Sprite {
 		
 		this.x = column * measure;
 		this.y = row * measure;
+		//Pixeles
 		
 		for(int i = 0; i < measure; i ++) {
 			for(int j = 0; i <  measure; j++) {
